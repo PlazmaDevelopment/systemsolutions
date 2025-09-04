@@ -231,7 +231,7 @@ except Exception as e:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/systemsolutions.git
+   git clone https://github.com/PlazmaDevelopment/systemsolutions.git
    cd systemsolutions
    ```
 
@@ -268,10 +268,6 @@ python -m build
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more information.
 
 ## Support
 
